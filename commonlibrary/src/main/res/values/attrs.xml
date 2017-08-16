@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BottomTabLayout">
+        <attr name="tabview_txt_size" format="dimension" />
+        <attr name="tabview_txt_color" format="color" />
+        <attr name="tabview_txt_selected_color" format="color" />
+        <attr name="tabview_background" format="reference" />
+    </declare-styleable>
+    <declare-styleable name="RoundImageView">
+        <attr name="roundimg_type" format="integer" />
+        <attr name="rect_radius" format="dimension" />
+    </declare-styleable>
+</resources>
