@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--BottomTabLayout-->
+    <color name="tabview_txt_color">#606060</color>
+    <color name="tabview_txt_selected_color">#f8942c</color>
+
+    <color name="glide_place_color">#E0E0E0</color>
+    <color name="black">#333333</color>
+
+</resources>

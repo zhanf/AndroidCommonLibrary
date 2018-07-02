@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CommonLibrary</string>
+
+    <string name="error_tips">糟糕！加载失败了ヽ(≧Д≦)ノ\n 偷偷告诉你一些可能的原因：\n1.惨不忍睹的网络环境\n 2.服务器君的不定期抽风\n 3.GeekNews现在心情不好拒绝服务喔~</string>
+
+    <string name="toast_network_timeout">网络连接异常，请重试</string>
+    <string name="toast_error_network">网络连接失败，请重试</string>
+    <string name="toast_mobile_format_errro">手机号码格式错误</string>
+
+</resources>
